@@ -2,6 +2,8 @@
 
 A C++ console-based turn-based strategy game where players control an alien navigating a 2D grid to defeat zombies using strategic movement and game objects. Developed in 2023 as part of a Programming Fundamentals course assignment.
 
+![Game Screenshot](./Starter-Kit-master%20(Part%202)/Program.png)
+
 ---
 
 ## 🎮 Overview
